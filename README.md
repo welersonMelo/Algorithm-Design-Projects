@@ -1,2 +1,2 @@
 # Algorithm-Design-Projects
-Some of C/C++ codes of projects for Algorithm Design. 
+Some of C/C++ codes of Algorithm Design course at University Federal of Sergipe.
